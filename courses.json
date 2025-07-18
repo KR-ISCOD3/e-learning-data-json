@@ -6,7 +6,7 @@
       "duration": "3 months",
       "price": 69,
       "rating": 4.5,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://amigoscode.com/assets/thumbnails/courses/javascript-for-beginners.webp"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "duration": "4 months",
       "price": 99,
       "rating": 4.8,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://surrey.codekids.org/wp-content/uploads/2019/11/python-code-kids.jpg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "duration": "6 months",
       "price": 149,
       "rating": 4.6,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://app.simpleshiksha.com/subject/avatar_1703774419891.webp"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "duration": "2 months",
       "price": 59,
       "rating": 4.3,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://yellowslice.in/bed/wp-content/uploads/2022/08/fintech-ui-ux-design-1200x540.png"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "duration": "3 months",
       "price": 89,
       "rating": 4.7,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://miro.medium.com/v2/resize:fit:766/1*eJ5-uE2cimV_GHmcUeXmkA.jpeg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "duration": "3 months",
       "price": 79,
       "rating": 4.2,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://pimwp.s3-accelerate.amazonaws.com/2021/10/maxresdefault-199.jpg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "duration": "4 months",
       "price": 109,
       "rating": 4.9,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://www.techtrainees.com/wp-content/uploads/2018/12/Machine-Learning-Course-in-Hyderabad.png"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "duration": "3 months",
       "price": 85,
       "rating": 4.4,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://www.a3logics.com/wp-content/uploads/2024/01/Best-Android-App-Development-Tools-to-Use-in-2024.webp"
     },
     {
       "id": 9,
@@ -70,7 +70,7 @@
       "duration": "2 months",
       "price": 65,
       "rating": 4.1,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://img-c.udemycdn.com/course/750x422/745050_06c3.jpg"
     },
     {
       "id": 10,
@@ -78,7 +78,7 @@
       "duration": "3 months",
       "price": 95,
       "rating": 4.6,
-      "image": "https://via.placeholder.com/300x150"
+      "image": "https://www.b2blearning.eu/img/og/cyber_security_660990bf7e6e38.71136792.jpg"
     }
   ]
 }
