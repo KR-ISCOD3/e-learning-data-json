@@ -8,7 +8,7 @@ server.use(cors());
 server.use(route);
 server.use(jsondefaults);
 
-const PORT = 3000;
+const PORT = 3000 || 3001;
 const HOST = 'localhost';
 
 // user npm run server to run project 
