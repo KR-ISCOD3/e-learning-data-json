@@ -1,0 +1,84 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "JavaScript for Beginners",
+      "duration": "3 months",
+      "price": 69,
+      "rating": 4.5,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Python Programming",
+      "duration": "4 months",
+      "price": 99,
+      "rating": 4.8,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Web Development",
+      "duration": "6 months",
+      "price": 149,
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 4,
+      "title": "UI/UX Design Essentials",
+      "duration": "2 months",
+      "price": 59,
+      "rating": 4.3,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 5,
+      "title": "React & Redux Bootcamp",
+      "duration": "3 months",
+      "price": 89,
+      "rating": 4.7,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 6,
+      "title": "Data Structures in C++",
+      "duration": "3 months",
+      "price": 79,
+      "rating": 4.2,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 7,
+      "title": "Machine Learning Basics",
+      "duration": "4 months",
+      "price": 109,
+      "rating": 4.9,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 8,
+      "title": "Android App Development",
+      "duration": "3 months",
+      "price": 85,
+      "rating": 4.4,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 9,
+      "title": "Digital Marketing Masterclass",
+      "duration": "2 months",
+      "price": 65,
+      "rating": 4.1,
+      "image": "https://via.placeholder.com/300x150"
+    },
+    {
+      "id": 10,
+      "title": "Cybersecurity Fundamentals",
+      "duration": "3 months",
+      "price": 95,
+      "rating": 4.6,
+      "image": "https://via.placeholder.com/300x150"
+    }
+  ]
+}
